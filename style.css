@@ -23,8 +23,6 @@ header{
     color:white;
     text-align:center;
     padding:03px 06px;
-    position:sticky;
-    top:0;
     z-index:1000;
     box-shadow:0 3px 10px rgba(0,0,0,0.2);
 }
@@ -53,7 +51,7 @@ nav a{
     color:white;
     text-decoration:none;
     margin:0 7px;
-    font-size:18px;
+    font-size:14px;
     font-weight:bold;
 }
 
