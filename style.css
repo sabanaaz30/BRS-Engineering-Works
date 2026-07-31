@@ -45,6 +45,7 @@ header p{
 
 nav{
     margin-top:10px;
+	position: static;
 }
 
 nav a{
