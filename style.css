@@ -22,8 +22,9 @@ header{
     background:#145A32;
     color:white;
     text-align:center;
-	top: 0;
     padding:03px 06px;
+    position:static;
+    top:0;
     z-index:1000;
     box-shadow:0 3px 10px rgba(0,0,0,0.2);
 }
@@ -46,8 +47,6 @@ header p{
 
 nav{
     margin-top:20px;
-	position: static;
-	width: 100%;
 }
 
 nav a{
@@ -86,7 +85,7 @@ nav a:hover{
 }
 
 .hero-logo{
-    width: 100px;
+    width: 220px;
     margin-bottom: 20px;
     border-radius: 12px;
 }
@@ -136,9 +135,9 @@ z-index:1;
 /* Logo */
 
 .logo{
-    width:50px;
-    max-width:30%;
-    margin-bottom:10px;
+    width:150px;
+    max-width:90%;
+    margin-bottom:25px;
 }
 
 /* Hero Text */
@@ -682,13 +681,4 @@ footer{
 }
 footer{
     transition:0.3s;
-}
-@media (max-width: 768px) {
-    nav {
-        height: 70px;
-    }
-
-    body {
-        padding-top: 70px;
-    }
 }
