@@ -22,6 +22,7 @@ header{
     background:#145A32;
     color:white;
     text-align:center;
+	top: 0;
     padding:03px 06px;
     z-index:1000;
     box-shadow:0 3px 10px rgba(0,0,0,0.2);
