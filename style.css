@@ -46,6 +46,7 @@ header p{
 nav{
     margin-top:20px;
 	position: static;
+	width: 100%;
 }
 
 nav a{
