@@ -44,14 +44,14 @@ header p{
 /* Navigation */
 
 nav{
-    margin-top:10px;
+    margin-top:15px;
 	position: static;
 }
 
 nav a{
     color:white;
     text-decoration:none;
-    margin:0 7px;
+    margin:0 12px;
     font-size:14px;
     font-weight:bold;
 }
@@ -134,9 +134,9 @@ z-index:1;
 /* Logo */
 
 .logo{
-    width:150px;
-    max-width:90%;
-    margin-bottom:25px;
+    width:50px;
+    max-width:30%;
+    margin-bottom:10px;
 }
 
 /* Hero Text */
